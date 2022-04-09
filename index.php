@@ -11,7 +11,7 @@ include_once 'db_connection.php';
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body class="App">
-  <h1>Integrating PayPal REST API Payment Gateway in PHP</h1>
+  <h1>Tru-PayPal Test Online Shop</h1>
   <div class="wrapper">
     <?php 
 		  $results = mysqli_query($db_conn,"SELECT * FROM products where status=1");

@@ -32,7 +32,9 @@
 
 ## Features
 
-- [ x ] PayPal Express Payment API
+- [ x ] Simple Inventory API
+- [ x ] Simple Cart API
+- [ x ] Simple Payment gateway using PayPal Payment API
 
 ## Author
 
