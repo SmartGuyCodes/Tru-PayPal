@@ -1,5 +1,9 @@
 <h1 align="center">Tru-PayPal: PayPal PHP REST API Payment Gateway Integration </h1>
 
+### Development 
+<!-- [![Build Status](https://travis-ci.org/ChurchCRM/CRM.svg?branch=master)](https://travis-ci.org/ChurchCRM/CRM) -->
+![TruPayPalBuild Status](https://github.com/SmartGuyCodes/Tru-PayPal/actions/workflows/TruPayPalBuild.yml/badge.svg)
+
 <p align="center">
 	Integrating PayPal REST API Payment Gateway using PHP #FinTech #Solution
 </p>
