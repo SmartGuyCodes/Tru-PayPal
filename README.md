@@ -15,7 +15,7 @@
 
 - [Repo](https://github.com/SmartGuyCodes/Tru-PayPal "Tru-PayPal Repo")
 
-- [Live](<https://149.28.194.13 "Live View in Action")
+- [Live](https://149.28.194.13 "Live View in Action")
 
 - [Bugs](https://github.com/SmartGuyCodes/Tru-PayPal/issues "Issues Page")
 
