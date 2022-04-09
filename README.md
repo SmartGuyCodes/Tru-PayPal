@@ -1,7 +1,6 @@
 <h1 align="center">Tru-PayPal: PayPal PHP REST API Payment Gateway Integration </h1>
 
 ### Development 
-<!-- [![Build Status](https://travis-ci.org/ChurchCRM/CRM.svg?branch=master)](https://travis-ci.org/ChurchCRM/CRM) -->
 ![TruPayPalBuild Status](https://github.com/SmartGuyCodes/Tru-PayPal/actions/workflows/TruPayPalBuild.yml/badge.svg)
 
 <p align="center">
@@ -24,7 +23,10 @@
 
 ## Screenshots
 
-![Home Page](/screenshots/1.jpg "Home Page")
+![Home Page](/screenshots/home.jpg "Home Page")
+![PayPal Login Page](/screenshots/paypal-login.jpg "PayPal Login Page")
+![Payment Confirmation Page](/screenshots/confirm-payment.jpg "Payment Confirmation Page")
+![Payment Completion Page](/screenshots/complete-payment.jpg "Payment Completion Page")
 
 ## Built With
 
