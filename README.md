@@ -27,6 +27,7 @@
 ![PayPal Login Page](/screenshots/paypal-login.jpg "PayPal Login Page")
 ![Payment Confirmation Page](/screenshots/confirm-payment.jpg "Payment Confirmation Page")
 ![Payment Completion Page](/screenshots/complete-payment.jpg "Payment Completion Page")
+![Successful Payment Page](/screenshots/successful-payment.jpg "Successful Payment Page")
 
 ## Built With
 
