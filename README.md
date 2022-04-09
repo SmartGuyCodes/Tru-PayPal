@@ -1,7 +1,7 @@
 <h1 align="center">Tru-PayPal: PayPal PHP REST API Payment Gateway Integration </h1>
 
 <p align="center">
-	Integrating PayPal REST API Payment Gateway in PHP #FinTech #Solution
+	Integrating PayPal REST API Payment Gateway using PHP #FinTech #Solution
 </p>
 
 <p align="center">
