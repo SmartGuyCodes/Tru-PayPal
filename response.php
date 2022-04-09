@@ -33,23 +33,26 @@ try {
             'product_name' => $payment->transactions[0]->item_list->items[0]->name,
 			'description' => $payment->transactions[0]->description,
         ];
+
         if (addPayment($data) !== false && $data['payment_status'] === 'approved') {
             // Payment successfully added, redirect to the payment complete page.
 			$inserids =$db->insert_id;
-            header("location:https://trupaypal.test/paymentSuccess.php?payid=$inserids");
+            header("location:".$baseUrl."paymentSuccess.php?payid=$inserids");
             exit(1);
-        } else {
+        } 
+        else {
             // Payment failed
-			header("location:https://trupaypal.test/payment-cancelled.php");
+			header("location:".$baseUrl."payment-cancelled.php");
              exit(1);
         }
 
-    } catch (Exception $e) {
+    } 
+    catch (Exception $e) {
         // Failed to retrieve payment from PayPal
-
     }
 
-} catch (Exception $e) {
+} 
+catch (Exception $e) {
     // Failed to take payment
 
 }

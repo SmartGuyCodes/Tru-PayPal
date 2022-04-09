@@ -1,0 +1,23 @@
+{
+    "name": "smartguycodes/trupaypal",
+    "description": "PayPal PHP Rest API Payment Gateway Integrator",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smartguycodes\\Trupaypal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "C.E.O. Ogego",
+            "email": "smartguycodes@gmail.com"
+        }
+    ]
+}
